@@ -1,0 +1,8 @@
+set_property PACKAGE_PIN L21 [get_ports vsync]
+set_property PACKAGE_PIN K22 [get_ports {vga_b[3]}]
+set_property PACKAGE_PIN K21 [get_ports {vga_b[2]}]
+set_property PACKAGE_PIN H22 [get_ports {vga_g[3]}]
+set_property PACKAGE_PIN J22 [get_ports {vga_g[2]}]
+set_property PACKAGE_PIN H15 [get_ports {vga_r[3]}]
+set_property PACKAGE_PIN G18 [get_ports {vga_r[1]}]
+set_property PACKAGE_PIN G17 [get_ports {vga_r[0]}]
